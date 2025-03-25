@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejercicio DropDown</string>
+    <string-array
+        name="Idiomas">
+        <item> Ingles</item>
+        <item> Español</item>
+        <item> Aleman</item>
+        <item> Noruego</item>
+
+    </string-array>
+</resources>
